@@ -1,4 +1,6 @@
-[![Banner](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" alt="Banner"/>
+</p>
 
 # Hi there, I'm Vladimir  👋 
 
@@ -25,20 +27,23 @@
 
 ### Connect with me:
 
-[![Blog]](https://medium.com/@v-dav)
+[Blog](https://medium.com/@v-dav)
 
-[![Twitter]](https://twitter.com/v_dav_dev)
+[Twitter](https://twitter.com/v_dav_dev)
 
-[![LinkedIn]](https://www.linkedin.com/in/vladimir-davidov/)
+[LinkedIn](https://www.linkedin.com/in/vladimir-davidov/)
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />  
 
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png#gh-dark-mode-only" style="padding-right:10px;" />
 
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/512/c-programming.png" />
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/512/c-programming.png#gh-dark-mode-only" />
+
+<img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg#gh-light-mode-only" />
 
 <img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/6617/6617073.png" />
 
@@ -50,10 +55,8 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [What happens when you type ls *.c in Shell? Follow this detailed description to understand](https://medium.com/@v-dav/what-happens-when-you-type-ls-c-in-shell-follow-this-detailed-description-to-understand-28a8ecde9cbc)
 - [5 Reasons Why Doctors Should Play Video Games](https://medium.com/@v-dav/5-reasons-why-doctors-should-play-video-games-c11ff37debd5)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
