@@ -23,11 +23,11 @@
 
 ### Connect with me:
 
-[![Blog](https://cdn-icons-png.flaticon.com/512/4922/4922073.png)](https://medium.com/@v-dav)
+[![Blog]](https://medium.com/@v-dav)
 
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1245px-Twitter-logo.svg.png)](https://twitter.com/v_dav_dev)
+[![Twitter]](https://twitter.com/v_dav_dev)
 
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/vladimir-davidov/)
+[![LinkedIn]](https://www.linkedin.com/in/vladimir-davidov/)
 
 ### Languages and Tools:
 
