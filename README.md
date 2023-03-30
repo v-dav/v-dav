@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/v_dav_dev)](https://twitter.com/v_dav_dev)
 
 
-## I'm a Doctor and Software Engeneer Student
+## I'm a Doctor and a Software Engeneer Student
    
 - 🌱 I'm an Anesthesiologist currently expanding my horizons at Holberton School France 🇫🇷 by studying in the field of Software Engeneering and Computer Science. 
 
