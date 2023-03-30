@@ -9,8 +9,7 @@
 
 
 ## I'm a Doctor and Software Engeneer Student
-
-- 👋 Hello, world!    
+   
 - 🌱 I'm an Anesthesiologist currently expanding my horizons at Holberton School France 🇫🇷 by studying in the field of Software Engeneering and Computer Science. 
 
 - 🔭 I believe in the power of technology to revolutionize healthcare and improve patients' lives, and I'm excited to fuse my medical background with cutting-edge software engineering skills.
