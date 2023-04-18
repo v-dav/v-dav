@@ -41,12 +41,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png">
-  <img alt="switch" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
+  <img align="left" alt="GitHub" width="26px alt="switch" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
 </picture>
 
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/512/c-programming.png#gh-dark-mode-only" />
-
-<img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/color/512/c-programming.png">
+  <img align="left" alt="Terminal" width="26px alt="switch" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg">
+</picture>
 
 <img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/6617/6617073.png" />
 
