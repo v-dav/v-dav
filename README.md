@@ -7,6 +7,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/v_dav_dev)](https://twitter.com/v_dav_dev)
 
+<img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
 
 ## I'm a Doctor and a Software Engeneer Student
    
