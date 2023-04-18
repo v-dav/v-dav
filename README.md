@@ -45,11 +45,11 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/color/512/c-programming.png">
-  <img align="left" alt="Terminal" width="26px alt="switch" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg">
+  <img align="left" alt="Terminal" width="26px alt="switch" src="https://cdn-icons-png.flaticon.com/512/6617/6617073.png">
 </picture>
 
-<img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/6617/6617073.png" />
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/512/c-programming.png" />
 
 
 <br />
