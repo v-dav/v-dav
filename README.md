@@ -29,8 +29,8 @@
 
 ### Projects Protfolio
  - **C**
-	 - [**Printf**: A simplified version of the printf() function](https://github.com/v-dav/holbertonschool-printf)
-	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
+	 - [**Printf**: A simplified version of the printf() function (March 2023)](https://github.com/v-dav/holbertonschool-printf)
+	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
 
 ### Languages and Tools:
 
