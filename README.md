@@ -27,13 +27,10 @@
 
 - ⚡ Fun fact! I've biked 🚴‍♂️ through the frosty wilderness of Norway, pitching a tent and snoozing beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️🏔️
 
-### Connect with me:
-
-[Blog](https://medium.com/@v-dav)
-
-[Twitter](https://twitter.com/v_dav_dev)
-
-[LinkedIn](https://www.linkedin.com/in/vladimir-davidov/)
+### Projects Protfolio
+ - **C**
+	 - [**Printf**: A simplified version of the printf() function](https://github.com/v-dav/holbertonschool-printf)
+	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
 
 ### Languages and Tools:
 
@@ -57,7 +54,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 - [What happens when you type ls *.c in Shell? Follow this detailed description to understand](https://medium.com/@v-dav/what-happens-when-you-type-ls-c-in-shell-follow-this-detailed-description-to-understand-28a8ecde9cbc)
 - [5 Reasons Why Doctors Should Play Video Games](https://medium.com/@v-dav/5-reasons-why-doctors-should-play-video-games-c11ff37debd5)
@@ -66,9 +63,13 @@
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
 ---
-[blog]: https://github.com/v-dav/v-dav
-[twitter]: https://twitter.com/v_dav_dev
-[linkedin]: https://www.linkedin.com/in/vladimir-davidov/
+### Connect with me:
+
+[Blog](https://medium.com/@v-dav)
+
+[Twitter](https://twitter.com/v_dav_dev)
+
+[LinkedIn](https://www.linkedin.com/in/vladimir-davidov/)
 
 ---
 
