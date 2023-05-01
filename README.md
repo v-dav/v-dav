@@ -29,8 +29,11 @@
 
 ### Projects Protfolio
  - **C**
-	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
+	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
+
+- **HTML/CSS/Javascript**
+	 - [**First Website:** A simple website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
 
 ### Languages and Tools:
 
@@ -47,6 +50,8 @@
 </picture>
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/512/c-programming.png" />
+
+<img align="left" alt="HTML" width="75px" src="https://user-images.githubusercontent.com/115344057/235431245-d8904fe7-ebe1-4ece-b7f9-195d0dc25177.png" style="padding-right:10px;" />
 
 
 <br />
