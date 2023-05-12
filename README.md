@@ -29,6 +29,7 @@
 
 ### Projects Protfolio
  - **C**
+	 - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
 	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
 	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
