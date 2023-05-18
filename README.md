@@ -6,6 +6,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/v_dav_dev)](https://twitter.com/v_dav_dev)
+![](https://komarev.com/ghpvc/?username=v-dav&color=blue&style=flat)
 
 ## I'm a Doctor and a Software Engeneer Student
 
