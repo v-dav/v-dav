@@ -39,13 +39,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png">
-  <img align="left" alt="GitHub" width="26px alt="switch" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg">
   <img align="left" alt="Terminal" width="26px alt="switch" src="https://cdn-icons-png.flaticon.com/512/6617/6617073.png">
@@ -54,6 +47,8 @@
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/512/c-programming.png" />
 
 <img align="left" alt="HTML" width="75px" src="https://user-images.githubusercontent.com/115344057/235431245-d8904fe7-ebe1-4ece-b7f9-195d0dc25177.png" style="padding-right:10px;" />
+
+<img align="left" alt="Python" width="26px" src="https://github.com/v-dav/holbertonschool-higher_level_programming/assets/115344057/c90e6204-f0bb-4b53-9fab-0ae4c1843f48" />
 
 
 <br />
