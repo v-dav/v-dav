@@ -68,10 +68,25 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="v-dav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=v-dav&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-	
-<img align="right" alt="v-dav's GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-dav&layout=donut-vertical&hide_title=true" />
-
+<summary>:zap: GitHub Stats</summary>
+<p align="center">
+  <a href="https://github.com/v-dav">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-dav&theme=transparent" />
+  </a>
+  <a href="https://github.com/v-dav">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-dav&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/v-dav">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-dav&theme=transparent" />
+  </a>
+  <a href="https://github.com/v-dav">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-dav&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 </details>
+
+<p align="center">
+  <a href="https://github.com/v-dav">
+    <img src="https://komarev.com/ghpvc/?username=v-dav&color=blue&style=flat)" />
+  </a>
+</p>
