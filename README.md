@@ -2,13 +2,16 @@
   <img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" alt="Banner"/>
 </p>
 
-# Hi there, I'm Vladimir  👋 
+<h1 align="center">Hi there, I'm Vladimir  👋</h1>
+<h1 align="center">I'm a Software Engeneer Student and a Doctor</h1>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/v_dav_dev)](https://twitter.com/v_dav_dev)
-![](https://komarev.com/ghpvc/?username=v-dav&color=blue&style=flat)
+<div align="center">
+    <a href="https://twitter.com/v_dav_dev">
+        <img src="https://img.shields.io/twitter/follow/v_dav_dev" alt="Twitter Follow">
+    </a>
+</div>
 
-## I'm a Doctor and a Software Engeneer Student
 
 <br/>
 
