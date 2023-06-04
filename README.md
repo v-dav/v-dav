@@ -39,16 +39,11 @@
 
 ### Languages and Tools:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-8.jpg">
-  <img align="left" alt="Terminal" width="26px alt="switch" src="https://cdn-icons-png.flaticon.com/512/6617/6617073.png">
-</picture>
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/512/c-programming.png" />
-
-<img align="left" alt="HTML" width="75px" src="https://user-images.githubusercontent.com/115344057/235431245-d8904fe7-ebe1-4ece-b7f9-195d0dc25177.png" style="padding-right:10px;" />
-
-<img align="left" alt="Python" width="26px" src="https://github.com/v-dav/holbertonschool-higher_level_programming/assets/115344057/c90e6204-f0bb-4b53-9fab-0ae4c1843f48" />
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/v-dav)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/v-dav)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/v-dav)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/v-dav)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/v-dav)
 
 
 <br />
