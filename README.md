@@ -83,7 +83,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-dav&theme=transparent" />
   </a>
   <a href="https://github.com/v-dav">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-dav&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-dav&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
