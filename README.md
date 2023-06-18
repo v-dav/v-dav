@@ -56,9 +56,9 @@
 
 ### Latest Blog Posts
 
-- [What happens when you type ls *.c in Shell? Follow this detailed description to understand](https://medium.com/@v-dav/what-happens-when-you-type-ls-c-in-shell-follow-this-detailed-description-to-understand-28a8ecde9cbc)
-- [5 Reasons Why Doctors Should Play Video Games](https://medium.com/@v-dav/5-reasons-why-doctors-should-play-video-games-c11ff37debd5)
+- [Understanding Object and Class Attributes in Python](https://medium.com/@v-dav/understanding-object-and-class-attributes-in-python-132bf918d023)
 - [The Future of Medicine: Why Doctors Should Learn Computer Science and Code Skills in 2023?](https://medium.com/@v-dav/the-future-of-medicine-why-doctors-should-learn-computer-science-and-code-skills-in-2023-e2bc67f7b044)
+- [5 Reasons Why Doctors Should Play Video Games](https://medium.com/@v-dav/5-reasons-why-doctors-should-play-video-games-c11ff37debd5)
 
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
