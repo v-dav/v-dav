@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Vladimir  👋</h1>
-<h1 align="center">I'm a Software Engeneer Student and a Doctor</h1>
+<h1 align="center">Software Engeneer Student and a Doctor</h1>
 
 
 <div align="center">
@@ -17,21 +17,19 @@
 
 <img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
    
-- 🌱 I'm an Anesthesiologist currently expanding my horizons at Holberton School France 🇫🇷 by studying in the field of Software Engeneering and Computer Science. 
+- 🌱 I'm an Anesthesiologist currently expanding my horizons at Holberton School France 🇫🇷 by studying in the field of Software Engineering and Computer Science. 
 
 - 🔭 I believe in the power of technology to revolutionize healthcare and improve patients' lives, and I'm excited to fuse my medical background with cutting-edge software engineering skills.
 
 - :bulb: As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals who are driven by curiosity and innovation. 
 
-- 🚀Let's connect and make a difference together! Feel free to check out my projects, share feedback, or reach out for potential collaborations. 
-
-- Let's build a healthier and more connected world, one line of code at a time. 💻💉🌍
+- 🚀Let's connect and make a difference together one line of code at a time.! Feel free to check out my projects, share feedback, or reach out for potential collaborations. 💻💉🌍
 
 -  :book:I love to read and play guitar. :guitar:
 
 - ⚡ Fun fact! I've biked 🚴‍♂️ through the frosty wilderness of Norway, pitching a tent and snoozing beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️🏔️
 
-### Projects Protfolio
+### Projects Portfolio
  - **C**
 	 - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
 	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
