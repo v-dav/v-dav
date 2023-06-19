@@ -54,10 +54,10 @@
 
 ### Latest Blog Posts
 
+- [In Python, Everything is an Object](https://medium.com/@v-dav/in-python-everything-is-an-object-f4ae19fa47f3)
 - [Understanding Object and Class Attributes in Python](https://medium.com/@v-dav/understanding-object-and-class-attributes-in-python-132bf918d023)
 - [The Future of Medicine: Why Doctors Should Learn Computer Science and Code Skills in 2023?](https://medium.com/@v-dav/the-future-of-medicine-why-doctors-should-learn-computer-science-and-code-skills-in-2023-e2bc67f7b044)
-- [5 Reasons Why Doctors Should Play Video Games](https://medium.com/@v-dav/5-reasons-why-doctors-should-play-video-games-c11ff37debd5)
-
+  
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
 ---
