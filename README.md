@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Vladimir  👋</h1>
-<h1 align="center">Software Engeneer Student and a Doctor</h1>
+<h1 align="center">I'm a Software Engeneer Student and a Doctor</h1>
 
 
 <div align="center">
