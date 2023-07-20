@@ -19,11 +19,11 @@
    
 - 🌱 I'm an Anesthesiologist currently expanding my horizons at Holberton School France 🇫🇷 by studying in the field of Software Engineering and Computer Science. 
 
-- 🔭 I believe in the power of technology to revolutionize healthcare and improve patients' lives, and I'm excited to fuse my medical background with cutting-edge software engineering skills.
+- 🔭 I'm very excited to fuse my medical background with cutting-edge software engineering skills.
 
 - :bulb: As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals who are driven by curiosity and innovation. 
 
-- 🚀Let's connect and make a difference together one line of code at a time.! Feel free to check out my projects, share feedback, or reach out for potential collaborations. 💻💉🌍
+- 🚀Let's connect and build something new together. Feel free to check out my projects, share feedback, or reach out for potential collaborations. 💻💉🌍
 
 -  :book:I love to read and play guitar. :guitar:
 
