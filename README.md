@@ -41,6 +41,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/v-dav)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/v-dav)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/v-dav)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <br />
