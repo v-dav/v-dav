@@ -29,9 +29,11 @@
  - **C**
 	 - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
 	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
+  	- [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
 	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
-- **HTML/CSS/Javascript**
+- **Web Development**
+	- [**AirBnB Clone:** A first full Web Application project (June - August 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
 	 - [**First Website:** A simple website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
 
 ### Languages and Tools:
@@ -51,9 +53,9 @@
 
 ### Latest Blog Posts
 
+- [How Do SQL Database Engines Work?](https://medium.com/@v-dav/how-do-sql-database-engines-work-fa8c0300ea78)
 - [In Python, Everything is an Object](https://medium.com/@v-dav/in-python-everything-is-an-object-f4ae19fa47f3)
 - [Understanding Object and Class Attributes in Python](https://medium.com/@v-dav/understanding-object-and-class-attributes-in-python-132bf918d023)
-- [The Future of Medicine: Why Doctors Should Learn Computer Science and Code Skills in 2023?](https://medium.com/@v-dav/the-future-of-medicine-why-doctors-should-learn-computer-science-and-code-skills-in-2023-e2bc67f7b044)
   
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
