@@ -33,8 +33,12 @@
 	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
 - **Web Development**
-	- [**AirBnB Clone:** A first full Web Application project (June - August 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
-	 - [**First Website:** A simple website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
+	- [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
+		- [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone)
+		- [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2)
+		- [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3)
+	- [**First Website:** A very simple static website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
+
 
 ### Languages and Tools:
 
