@@ -26,12 +26,6 @@
 - ⚡ Fun fact! I've biked 🚴‍♂️ through the frosty wilderness of Norway, pitching a tent and snoozing beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️🏔️
 
 ### Projects Portfolio
- - **C**
-	 - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
-	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
-  	- [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
-	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
-
 - **Web Development**
 	- [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
   	- [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
@@ -40,6 +34,12 @@
 		- [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3)
   		- [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
 	- [**First Website:** A very simple static website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
+   
+ - **C**
+	 - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
+	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
+  	- [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
+	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
 
 ### Languages and Tools:
