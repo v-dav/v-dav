@@ -22,6 +22,8 @@
 - Feel free to check out my projects, share feedback, or reach out for potential collaborations. Let's connect and build something new together. 🚀
 
 - :book:I love to read and play guitar. :guitar:
+  
+- I speak: Français, English, Svenska, Русский
 
 - ⚡ Fun fact! I've biked 🚴‍♂️ through the frosty wilderness of Norway, pitching a tent and snoozing beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️🏔️
 
