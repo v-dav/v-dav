@@ -29,6 +29,7 @@
 
 ### Projects Portfolio
 - **Web Development**
+  	- [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (September - October 2023)](https://github.com/v-dav/DepistClic)
 	- [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
   	- [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
 		- [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone)
