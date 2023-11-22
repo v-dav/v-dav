@@ -61,6 +61,7 @@
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express&logoColor=white)](https://github.com/v-dav)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br />
 <br />
