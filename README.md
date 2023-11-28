@@ -70,9 +70,9 @@
 
 ### Latest Blog Posts
 
+- [From Code to Clinic: How I designed and launched my first Medical Web App](https://medium.com/@v-dav/from-code-to-clinic-how-i-designed-and-launched-my-first-medical-web-app-f115d86a44ac)
 - [How Do SQL Database Engines Work?](https://medium.com/@v-dav/how-do-sql-database-engines-work-fa8c0300ea78)
 - [In Python, Everything is an Object](https://medium.com/@v-dav/in-python-everything-is-an-object-f4ae19fa47f3)
-- [Understanding Object and Class Attributes in Python](https://medium.com/@v-dav/understanding-object-and-class-attributes-in-python-132bf918d023)
   
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
