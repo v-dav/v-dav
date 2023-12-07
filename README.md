@@ -21,7 +21,7 @@
 
 - Feel free to check out my projects, share feedback, or reach out for potential collaborations. Let's connect and build something new together. 🚀
 
-- :book:I love to read and play guitar. :guitar:
+- :book: I love to read and play guitar.
   
 - I speak: Français, English, Svenska, Русский
 
