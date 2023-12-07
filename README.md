@@ -1,48 +1,41 @@
 <h1 align="center">Hi there, I'm Vladimir  👋</h1>
-<h1 align="center">I'm a Software Engeneer Student and a Doctor</h1>
-
-
-<div align="center">
-    <a href="https://twitter.com/v_dav_dev">
-        <img src="https://img.shields.io/twitter/follow/v_dav_dev" alt="Twitter Follow">
-    </a>
-</div>
-
+<h1 align="center">Full-Stack Software Engineer</h1>
 
 <br/>
 
 <img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
-   
-- 🌱 I'm an Anesthesiologist currently studying Computer Science, Software Engineering and Web Development at Holberton School France 🇫🇷. 
+
+### Who am I
+- 🌱 I'm a doctor currently studying Computer Science, Software Engineering, and Web Development at Holberton School. 
 
 - 🔭 I'm very excited to fuse my medical background with cutting-edge software engineering skills.
 
-- :bulb: As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals who are driven by curiosity and innovation. 
+- :bulb: As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals driven by curiosity and innovation. 
 
-- Feel free to check out my projects, share feedback, or reach out for potential collaborations. Let's connect and build something new together. 🚀
+- 🚀 Feel free to check out my projects, share feedback, or reach out for potential collaborations. Let's connect and build something new together.
 
 - :book: I love to read and play guitar.
   
-- I speak: Français, English, Svenska, Русский
+-  👅 I speak French, English, Swedish and Russian
 
-- ⚡ Fun fact! I've biked 🚴‍♂️ through the frosty wilderness of Norway, pitching a tent and snoozing beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️🏔️
+- 🚴‍♂️❄️🏔️ Fun fact! I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier – all in the name of adventure and camaraderie!
 
 ### Projects Portfolio
-- **Web Development**
-  	- [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (September - October 2023)](https://github.com/v-dav/DepistClic)
-	- [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
-  	- [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
-		- [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone)
-		- [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2)
-		- [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3)
-  		- [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
-	- [**First Website:** A very simple static website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
+**Web Development**
+- [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (September - October 2023)](https://github.com/v-dav/DepistClic)
+- [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
+- [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
+	- [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone)
+	- [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2)
+	- [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3)
+	- [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
+- [**First Website:** A very simple static website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
    
- - **C**
-	 - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
-	 - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
-  	- [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
-	 - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
+**Low-level Programming**
+ - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
+ - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
+- [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
+ - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
 
 ### Languages and Tools:
