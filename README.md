@@ -22,7 +22,8 @@
 
 ### Projects Portfolio
 **Web Development**
-- [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (September - October 2023)](https://github.com/v-dav/DepistClic)
+- [**Get Schooled:** A static website build from a Figma designer file (December 2023)](https://v-dav.github.io/holbertonschool-web-development/css_advanced/)
+- [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (October - November 2023)](https://github.com/v-dav/DepistClic)
 - [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
 - [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/)
 	- [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone)
@@ -55,6 +56,11 @@
 [![Node](https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express&logoColor=white)](https://github.com/v-dav)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/v-dav)
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+
+
 
 <br />
 <br />
