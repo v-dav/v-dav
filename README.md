@@ -58,6 +58,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/v-dav)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/v-dav)
 
 
 
