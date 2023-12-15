@@ -47,6 +47,9 @@
 [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/v-dav)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/v-dav)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/v-dav)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/v-dav)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/v-dav)
+[![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/v-dav)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/v-dav)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/v-dav)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/v-dav)
@@ -55,10 +58,9 @@
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express&logoColor=white)](https://github.com/v-dav)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/v-dav)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/v-dav)
+
 
 
 
