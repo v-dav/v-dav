@@ -57,7 +57,7 @@
 
 ---
 
-### Latest Blog Posts
+### 🖋️ Latest Blog Posts
 
 - [From Code to Clinic: How I designed and launched my first Medical Web App](https://medium.com/@v-dav/from-code-to-clinic-how-i-designed-and-launched-my-first-medical-web-app-f115d86a44ac)
 - [How Do SQL Database Engines Work?](https://medium.com/@v-dav/how-do-sql-database-engines-work-fa8c0300ea78)
@@ -66,7 +66,7 @@
 ➡️ [more blog posts...](https://medium.com/@v-dav)
 
 ---
-### Connect with me:
+### ☕️ Connect with me:
 - [Blog](https://medium.com/@v-dav)
 - [Twitter](https://twitter.com/v_dav_dev)
 - [LinkedIn](https://www.linkedin.com/in/vladimir-davidov/)
