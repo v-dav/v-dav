@@ -1,26 +1,24 @@
 ![shine (3)](https://github.com/v-dav/v-dav/assets/115344057/1fc2b794-74c5-4bb7-b3d0-a538df0ee600)
 
-
-<br/>
-
 <img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
 
-### Who am I
-- 🌱 I'm a doctor currently studying Computer Science, Software Engineering, and Web Development at Holberton School. 
 
-- 🔭 I'm very excited to fuse my medical background with cutting-edge software engineering skills.
+###  ✍️  Who am I?
+- I'm a doctor currently studying Computer Science, Software Engineering, and Web Development. 🌱
 
-- :bulb: As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals driven by curiosity and innovation. 
+- As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals driven by curiosity and innovation. :bulb:
 
-- 🚀 Feel free to check out my projects, share feedback, or reach out for potential collaborations. Let's connect and build something new together.
+- Feel free to check out my projects, share feedback, or reach out for potential collaborations. 🚀
 
-- :book: I love to read and play guitar.
+- I love to read and play guitar. :book: 
   
--  👅 I speak French, English, Swedish and Russian
+- I speak French, English, Swedish and Russian. 🌏 
 
-- 🚴‍♂️❄️🏔️ Fun fact! I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier – all in the name of adventure and camaraderie!
+- Fun fact! I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️ 
 
-### Projects Portfolio
+---
+
+###  📔 Projects Portfolio
 **Web Development**
 - [**Get Schooled:** A static website build from a Figma designer file (December 2023)](https://v-dav.github.io/holbertonschool-web-development/css_advanced/)
 - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (October - November 2023)](https://github.com/v-dav/DepistClic)
@@ -28,14 +26,14 @@
 - [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
 - [**First Website:** A very simple static website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
    
-**Low-level Programming**
+ **Low-level Programming**
  - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
  - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
 - [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
  - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
-
-### Languages and Tools:
+---
+### 🛠️ Languages and Tools:
 
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/v-dav)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/v-dav)
@@ -56,13 +54,6 @@
 [![Node](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express&logoColor=white)](https://github.com/v-dav)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-
-
-
-
-
-<br />
-<br />
 
 ---
 
