@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Vladimir  👋</h1>
-<h1 align="center">Full-Stack Software Engineer</h1>
+![shine (1)](https://github.com/v-dav/v-dav/assets/115344057/dc365f78-8bd2-4dfb-9fc6-0c5ce11d1ef1)
+
 
 <br/>
 
