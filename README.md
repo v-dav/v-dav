@@ -63,7 +63,7 @@
 - [How Do SQL Database Engines Work?](https://medium.com/@v-dav/how-do-sql-database-engines-work-fa8c0300ea78)
 - [In Python, Everything is an Object](https://medium.com/@v-dav/in-python-everything-is-an-object-f4ae19fa47f3)
   
-➡️ [more blog posts...](https://medium.com/@v-dav)
+  [more blog posts...](https://medium.com/@v-dav)
 
 ---
 ### ☕️ Connect with me:
