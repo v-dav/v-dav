@@ -20,7 +20,9 @@
 
 ###  📔 Projects Portfolio
 **Web Development**
-- [**Get Schooled:** A static website build from a Figma designer file (December 2023)](https://v-dav.github.io/holbertonschool-web-development/css_advanced/)
+- [**Headphones:** A static website built from a Figma designer file (January 2024)](https://v-dav.github.io/holbertonschool-headphones)
+- [**Get Schooled:** A static website built from a Figma designer file (December 2023)](https://v-dav.github.io/holbertonschool-web-development/css_advanced/)
+- [**Portfolio Website:** A website built to showcase skills and host CV and Social links (December 2023 - January 2024)](https://utveckvlad.com)
 - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (October - November 2023)](https://github.com/v-dav/DepistClic)
 - [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
 - [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
