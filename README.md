@@ -20,7 +20,7 @@
 
 ###  📔 Projects Portfolio
 **Web Development**
-- [**Headphones:** A static website built from a Figma designer file (January 2024)](https://github.com/v-dav/holbertonschool-headphones)
+- [**Headphones:** A static website built from a Figma designer file (January 2024)](https://v-dav.github.io/holbertonschool-headphones/index.html)
 - [**Get Schooled:** A static website built from a Figma designer file (December 2023)](https://v-dav.github.io/holbertonschool-web-development/css_advanced/)
 - [**Portfolio Website:** A website built to showcase skills and host CV and Social links (December 2023 - January 2024)](https://utveckvlad.com)
 - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (October - November 2023)](https://github.com/v-dav/DepistClic)
