@@ -61,9 +61,9 @@
 
 ### 🖋️ Latest Blog Posts
 
+- [Speak UX Designer Language: Put yourself in the designer’s shoes and understand how user experience works through a real-world Spotify UX case study](https://medium.com/design-bootcamp/speak-ux-designer-language-d688f8e12bf8)
 - [From Code to Clinic: How I designed and launched my first Medical Web App](https://medium.com/@v-dav/from-code-to-clinic-how-i-designed-and-launched-my-first-medical-web-app-f115d86a44ac)
 - [How Do SQL Database Engines Work?](https://medium.com/@v-dav/how-do-sql-database-engines-work-fa8c0300ea78)
-- [In Python, Everything is an Object](https://medium.com/@v-dav/in-python-everything-is-an-object-f4ae19fa47f3)
   
   [more blog posts...](https://medium.com/@v-dav)
 
