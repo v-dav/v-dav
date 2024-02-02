@@ -56,6 +56,7 @@
 [![Node](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express&logoColor=white)](https://github.com/v-dav)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ---
 
