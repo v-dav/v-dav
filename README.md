@@ -20,8 +20,9 @@
 
 ###  📔 Projects Portfolio
 **Web Development**
+- [**Seal Online:** A responsive website built with WordPress for a private client (February 2024)](https://dev.sealonline.se/)
+- [**Get Schooled:** A static responsive website with dynamic API calls (February 2024)](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file (January 2024)](https://v-dav.github.io/holbertonschool-headphones/index.html)
-- [**Get Schooled:** A static non-responsive website built from a Figma designer file (December 2023)](https://v-dav.github.io/holbertonschool-web-development/css_advanced/)
 - [**Portfolio Website:** A website built to showcase skills and host CV and Social links (December 2023 - January 2024)](https://utveckvlad.com)
 - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (October - November 2023)](https://github.com/v-dav/DepistClic)
 - [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
