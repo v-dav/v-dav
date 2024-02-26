@@ -1,4 +1,4 @@
-![shine (3)](https://github.com/v-dav/v-dav/assets/115344057/1fc2b794-74c5-4bb7-b3d0-a538df0ee600)
+![shine](https://github.com/v-dav/v-dav/assets/115344057/fa1df636-72ab-4a12-b738-4eed1aaba31e)
 
 <img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
 
