@@ -38,18 +38,18 @@
 ---
 ### 🛠️ Languages and Tools:
 
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/v-dav)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/v-dav)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/v-dav)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/v-dav)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/v-dav)
+[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/v-dav)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/v-dav)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/v-dav)
 [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orange)](https://github.com/v-dav)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/v-dav)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/v-dav)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/v-dav)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/v-dav)
 [![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/v-dav)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/v-dav)
-[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/v-dav)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/v-dav)
 [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=green)](https://github.com/v-dav)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/v-dav)
