@@ -4,17 +4,17 @@
 
 
 ###  ✍️  Who am I?
-- I'm a doctor currently studying Computer Science, Software Engineering, and Web Development. 🌱
+- Doctor of medicine transitioning towards Computer Science, Software Engineering, and Web Development 🌱
 
-- As a lifelong learner and problem solver, I'm eager to collaborate with like-minded individuals driven by curiosity and innovation. :bulb:
+- A lifelong learner and problem solver from my personal and professional background :bulb:
 
-- Feel free to check out my projects, share feedback, or reach out for potential collaborations. 🚀
-
-- I love to read and play guitar. :book: 
+- I love to climb, read and play guitar. :book: 
   
-- I speak French, English, Swedish and Russian. 🌏 
+- I speak French, English, Swedish and Russian 🌏 
 
 - Fun fact! I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️ 
+
+- Feel free to check out my projects, share feedback, or reach out for potential collaborations 🚀
 
 ---
 
