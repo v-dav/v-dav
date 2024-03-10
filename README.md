@@ -20,7 +20,7 @@
 
 ###  📔 Projects Portfolio
 **Web Development**
-- [**Seal Online:** A responsive website built with WordPress for a private client (February 2024)](https://dev.sealonline.se/)
+- [**Seal Online:** A responsive website built with WordPress for a private client (February 2024)](https://sealonline.se/)
 - [**Get Schooled:** A static responsive website with dynamic API calls (February 2024)](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file (January 2024)](https://v-dav.github.io/holbertonschool-headphones/index.html)
 - [**Portfolio Website:** A website built to showcase skills and host CV and Social links (December 2023 - January 2024)](https://utveckvlad.com)
