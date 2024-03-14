@@ -5,7 +5,8 @@
 
 ###  ✍️  Who am I?
 - Doctor of medicine transitioning towards Computer Science, Software Engineering, and Web Development 🌱
-
+- I've been enjoying web development for the first time since I built my first basic static website and I just went crazy about it when I built my first dynamic web app "Depistclic".🖥️
+- I'm currently finishing my training at Holberton School and I'm on the lookout for a role in full-stack web development. I'd especially love to work on-site in a medium-sized team which I think is the best to gain experience while making a meaningful impact. If you're hiring, let's chat!
 - A lifelong learner and problem solver from my personal and professional background :bulb:
 
 - I love to climb, read and play guitar. :book: 
