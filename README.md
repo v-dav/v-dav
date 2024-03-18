@@ -44,6 +44,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/v-dav)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/v-dav)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/v-dav)
+[![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://github.com/v-dav)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/v-dav)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/v-dav)
 [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orange)](https://github.com/v-dav)
