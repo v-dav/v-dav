@@ -1,6 +1,7 @@
-![shine](https://github.com/v-dav/v-dav/assets/115344057/fa1df636-72ab-4a12-b738-4eed1aaba31e)
+![GiHub banner](https://github.com/v-dav/v-dav/assets/115344057/36dd7962-ca53-485d-9f3a-89c70b738aaf)
 
 <img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
+
 
 
 ###  ✍️  Who am I?
