@@ -5,19 +5,14 @@
 
 
 ###  ✍️  Who am I?
-- Doctor of medicine transitioning towards Computer Science, Software Engineering, and Web Development 🌱
-- I've been enjoying web development for the first time since I built my first basic static website and I just went crazy about it when I built my first dynamic web app "Depistclic".🖥️
-- I'm currently finishing my training at Holberton School and I'm on the lookout for a role in full-stack web development. I'd especially love to work on-site in a medium-sized team which I think is the best to gain experience while making a meaningful impact. If you're hiring, let's chat!
-- A lifelong learner and problem solver from my personal and professional background :bulb:
-
-- I love to climb, read and play guitar. :book: 
-  
-- I speak French, English, Swedish and Russian 🌏 
-
-- Fun fact! I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier – all in the name of adventure and camaraderie! ❄️ 
-
-- Feel free to check out my projects, share feedback, or reach out for potential collaborations 🚀
-
+- Doctor of medicine who switched career towards Computer Science, Software Engineering, and Web Development 🌱
+- I've been enjoying web development for the first time since I built my first static website and it became a real passion when I built my first dynamic medical web app 🩺
+- I'm finishing my 2 years curriculum at Holberton School and I'm on the lookout for a back or front-end role as a software engineer. ⚙
+- I'd especially love to work on-site in a medium-sized team which I think is the best to gain experience while making a meaningful impact. If you're hiring, let's chat! 🤝
+- I lived in 3 countries and I speak 4 languages (French, English, Swedish, and Russian) 🌏
+- I love to run, climb, read, and play guitar. 🧗
+- I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier ❄️ 
+- I wrote a little book :book:, have already tried to launch my own business 👨‍💻 and have already been in a music band 🎸
 ---
 
 ###  📔 Projects Portfolio
