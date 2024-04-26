@@ -41,6 +41,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/v-dav)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/v-dav)
 [![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis)](https://github.com/v-dav)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/v-dav)
 [![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/v-dav)
 [![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)](https://github.com/v-dav)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/v-dav)
