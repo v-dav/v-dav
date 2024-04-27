@@ -71,6 +71,20 @@
   [more blog posts...](https://medium.com/@v-dav)
 
 ---
+
+### 📖 Favorite Books
+
+- **HTTP: The Definitive Guide** by David Gourley
+- **System Design Interview** by Alex Xu
+- **The Full Stack Developer** by Chris Northwood
+- **Cracking the Coding Interview** by Gayle Laakmann McDowell
+- **Head First C: A Brain-Friendly Guide** by  David Griffiths
+- **Clean Code** by Robert Martin
+- **Data Structures and Algorithms Made Easy** by Narasimha Karumanchi
+- **Grokking Algorithms** by Aditya Bhargava
+- **Head First Java** by Kathy Sierra & Bert Bates
+
+---
 ### ☕️ Connect with me:
 - [Blog](https://medium.com/@v-dav)
 - [Twitter](https://twitter.com/v_dav_dev)
