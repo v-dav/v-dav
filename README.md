@@ -12,7 +12,7 @@
 - I lived in 3 countries and I speak 4 languages (French, English, Swedish, and Russian) 🌏
 - I love to run, climb, read, and play guitar. 🧗
 - I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier ❄️ 
-- I wrote a little book :book:, have already tried to launch my own business 👨‍💻 and have already been in a music band 🎸
+- I wrote a little book in French :book: (check it out [**HERE**](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf)), have already tried to launch my own business 👨‍💻 and have already been in a music band 🎸
 ---
 
 ###  📔 Projects Portfolio
