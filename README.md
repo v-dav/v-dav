@@ -88,7 +88,7 @@
 ### ☕️ Connect with me:
 - [Blog](https://medium.com/@v-dav)
 - [Twitter](https://twitter.com/v_dav_dev)
-- [LinkedIn](https://www.linkedin.com/in/vladimir-davidov/)
+- [LinkedIn](https://www.linkedin.com/in/v-dav/)
 
 ---
 
