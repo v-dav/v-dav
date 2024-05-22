@@ -17,7 +17,8 @@
 
 ###  📔 Projects Portfolio
 **Web Development**
-- [**Reacts Jobs:** A Dashboard app built in React with API calls to a personal mock API server (May 2024)](https://react-jobs-gfw8.onrender.com/)
+- [**React Products Table:** A products table with filters using React state (May 2024)](https://v-dav.github.io/react-products-table/)
+- [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server (May 2024)](https://react-jobs-gfw8.onrender.com/)
 - [**Tic Tac Toe:** A simple Tic Tac Toe game built with React (April 2024)](https://v-dav.github.io/tictactoe_game_react/)
 - [**Seal Online:** A responsive website built with WordPress for a private client (February 2024)](https://sealonline.se/)
 - [**Get Schooled:** A static responsive website with dynamic API calls (February 2024)](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
