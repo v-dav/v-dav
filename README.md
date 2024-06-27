@@ -63,7 +63,7 @@
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/v-dav)
 [![Express](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express)](https://github.com/v-dav)
-[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/v-dav)
 [![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
 
 ---
