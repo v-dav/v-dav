@@ -1,21 +1,14 @@
-![GiHub banner](https://github.com/v-dav/v-dav/assets/115344057/36dd7962-ca53-485d-9f3a-89c70b738aaf)
-
-<img src="https://github.com/v-dav/v-dav/blob/main/Sans%20titre%20(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
-
-
-
-###  ✍️  Who am I?
+### About me
 - Doctor of medicine who switched career towards Computer Science, Software Engineering, and Web Dev 🌱
-- I've been enjoying it for the first time since I built my first static website and it became a real passion when I built my first dynamic medical web app 🩺
-- I'm finishing my 2 years curriculum at Holberton School and I'm on the lookout for a back or front-end role as a software engineer. ⚙
+- I've been enjoying it since I built my first static website for the first time and it became a real calling when I built my first dynamic medical web app 🩺
+- Finishing my 2-year curriculum at Holberton School and I'm on the lookout for a back or front-end role as a software engineer. ⚙
 - I'd especially love to work on-site in a medium-sized team which I think is the best to gain experience while making a meaningful impact. If you're hiring, let's chat! 🤝
 - I lived in 3 countries and I speak 4 languages (French, English, Swedish, and Russian) 🌏
-- I love to run, climb, read, and play guitar. 🧗
-- I've biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier ❄️ 
-- I wrote a little book in French :book: (check it out [**HERE**](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf)), have already tried to launch my own business 👨‍💻 and have already been in a music band 🎸
+- I love to run, climb and read 🧗
+- I wrote a little book in French :book: (check it out [**HERE**](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf)), have already tried to launch my own business 👨‍💻, have already been in a music band 🎸 and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier ❄️
 ---
 
-###  📔 Projects Portfolio
+### Portfolio
 **Web Development**
 - [**React To-do App:** A to-do list management app (June 2024)](https://v-dav.github.io/react-todo/)
 - [**React Products Table:** A products table with filters using React state (May 2024)](https://v-dav.github.io/react-products-table/)
@@ -37,7 +30,7 @@
  - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
 
 ---
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/v-dav)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/v-dav)
@@ -68,7 +61,7 @@
 
 ---
 
-### 🖋️ Latest Blog Posts
+### Latest Blog Posts
 
 - [Speak UX Designer Language: Put yourself in the designer’s shoes and understand how user experience works through a real-world Spotify UX case study](https://medium.com/design-bootcamp/speak-ux-designer-language-d688f8e12bf8)
 - [From Code to Clinic: How I designed and launched my first Medical Web App](https://medium.com/@v-dav/from-code-to-clinic-how-i-designed-and-launched-my-first-medical-web-app-f115d86a44ac)
@@ -78,7 +71,7 @@
 
 ---
 
-### 📖 Favorite Books
+### Favorite Books
 
 - **HTTP: The Definitive Guide** by David Gourley
 - **System Design Interview** by Alex Xu
@@ -91,7 +84,7 @@
 - **Head First Java** by Kathy Sierra & Bert Bates
 
 ---
-### ☕️ Connect with me:
+### Connect with me:
 - [Blog](https://medium.com/@v-dav)
 - [Twitter](https://twitter.com/v_dav_dev)
 - [LinkedIn](https://www.linkedin.com/in/v-dav/)
