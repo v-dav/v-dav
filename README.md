@@ -1,11 +1,8 @@
 ### About me
-- Doctor of medicine who switched career towards Computer Science, Software Engineering, and Web Dev 🌱
-- I've been enjoying it since I built my first static website for the first time and it became a real calling when I built my first dynamic medical web app 🩺
-- Finishing my 2-year curriculum at Holberton School and I'm on the lookout for a back or front-end role as a software engineer. ⚙
-- I'd especially love to work on-site in a medium-sized team which I think is the best to gain experience while making a meaningful impact. If you're hiring, let's chat! 🤝
-- I lived in 3 countries and I speak 4 languages (French, English, Swedish, and Russian) 🌏
-- I love to run, climb and read 🧗
-- I wrote a little book in French :book: (check it out [**HERE**](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf)), have already tried to launch my own business 👨‍💻, have already been in a music band 🎸 and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier ❄️
+- Doctor of Medicine who switched career towards Computer Science, Software Engineering, and Web Development
+- Currently looking for a back, front-end, or full-stack developer in an organization where I can have a meaningful impact. If you're hiring, let's chat! 🤝
+- I have lived in 3 countries and I speak 4 languages. Love to run, climb, and read.
+- I wrote a little book in French :book: (check it out [**HERE**](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf)), have already tried to launch my own business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier.
 ---
 
 ### Portfolio
