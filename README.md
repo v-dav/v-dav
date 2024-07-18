@@ -18,7 +18,7 @@
 - [**Mortgage Calculator:** Computes monthly mortgage payments based on loan details](https://github.com/v-dav/java_programming/tree/main/mortgage_calculator)
 - [**Simple Dum Bot:** A basic chatbot that interacts with users and performs simple tasks](https://github.com/v-dav/java_programming/tree/main/simple_bot)
 - [**Zookeeper:** Simulates the management of a zoo, allowing users to view different animal habitats](https://github.com/v-dav/java_programming/tree/main/zookeeper)
-- [Beer Song, Guessing Game and Phrase-O-Matic: Beer song - Outputs the lyrics to the “99 Bottles of Beer” song, Guessing Game - A number guessing game where bot players try to guess the computer’s chosen number, Phrase-O-Matic - Generates random business phrases from pre-defined word lists](https://github.com/v-dav/java_programming/tree/main/head_first)
+- [**Beer Song, Guessing Game and Phrase-O-Matic:** Beer song - Outputs the lyrics to the “99 Bottles of Beer” song, Guessing Game - A number guessing game where bot players try to guess the computer’s chosen number, Phrase-O-Matic - Generates random business phrases from pre-defined word lists](https://github.com/v-dav/java_programming/tree/main/head_first)
 
 
 **Web Development**
