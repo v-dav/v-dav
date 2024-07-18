@@ -7,6 +7,20 @@
 ---
 
 ### Portfolio
+**Java CLI**
+- [Chuck Norris Cypher Encoder](https://github.com/v-dav/java_programming/tree/main/chuck_norris_cypher_encoder)
+- [Bulls & Cows Game](https://github.com/v-dav/java_programming/tree/main/bulls_and_cows_game)
+- [Cinema Booking System](https://github.com/v-dav/java_programming/tree/main/cinema_manager)
+- [Coffee Machine Simulator](https://github.com/v-dav/java_programming/tree/main/coffee_machine)
+- [Last Pencil Game](https://github.com/v-dav/java_programming/tree/main/last_pensil_game)
+- [Net Income Calculator](https://github.com/v-dav/java_programming/tree/main/cli_calculator)
+- [Tic Tac Toe Game](https://github.com/v-dav/java_programming/tree/main/cli_tictactoe)
+- [Mortgage Calculator](https://github.com/v-dav/java_programming/tree/main/mortgage_calculator)
+- [Simple Dum Bot](https://github.com/v-dav/java_programming/tree/main/simple_bot)
+- [Zookeeper](https://github.com/v-dav/java_programming/tree/main/zookeeper)
+- [Beer Song, Guessing Game and Phrase-O-Matic](https://github.com/v-dav/java_programming/tree/main/head_first)
+
+
 **Web Development**
 - [**React To-do App:** A to-do list management app (June 2024)](https://v-dav.github.io/react-todo/)
 - [**React Products Table:** A products table with filters using React state (May 2024)](https://v-dav.github.io/react-products-table/)
