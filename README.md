@@ -1,8 +1,8 @@
 ### About me
-- Doctor of Medicine who switched career towards Computer Science, Software Engineering, and Web Development
+- Software Engineer with a Doctor of Medicine degree
 - Currently looking for a back-end, front-end, or full-stack position in an organization where I can make a meaningful impact.
-- I've lived in 3 countries and I speak 4 languages. Love to run, climb, and read.
-- I wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), have already tried to launch my own business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier.
+- Lived in 3 countries and speak 4 languages. Love to run, climb, and read.
+- Wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), have already tried to launch my own business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier.
 - If you're hiring, have a project proposal, or just want to say hello, let's chat! 🤝
 ---
 
