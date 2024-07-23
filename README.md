@@ -8,6 +8,7 @@
 
 ### Portfolio
 **Java CLI**
+- [**Battleship Game**: A classic Battleship game for 2 players playable in terminal.](https://github.com/v-dav/java_programming/tree/main/battleship)
 - [**Chuck Norris Cypher Encoder**: Encodes and decodes messages using the unary code](https://github.com/v-dav/java_programming/tree/main/chuck_norris_cypher_encoder)
 - [**Bulls & Cows Game:** A guessing game where players deduce a secret code based on feedback of “bulls” and “cows](https://github.com/v-dav/java_programming/tree/main/bulls_and_cows_game)
 - [**Cinema Booking System:** Manages a cinema’s seating arrangement, ticket purchases, and displays statistics](https://github.com/v-dav/java_programming/tree/main/cinema_manager)
