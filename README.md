@@ -51,7 +51,7 @@
 [![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/v-dav)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/v-dav)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/v-dav)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/v-dav)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/v-dav)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/v-dav)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/v-dav)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/v-dav)
