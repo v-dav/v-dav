@@ -9,7 +9,7 @@
 ### Portfolio
 
 **Java Applications**
-- [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility while maintaining code clarity and adhering to object-oriented principles within a 48-hour timeframe.](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
+- [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
 
 **Java CLI**
 - [**Battleship Game**: A classic Battleship game for 2 players playable in terminal.](https://github.com/v-dav/java_programming/tree/main/battleship)
