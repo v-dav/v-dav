@@ -8,6 +8,13 @@
 
 ### Portfolio
 
+**Featured**
+ - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
+ - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://github.com/v-dav/DepistClic)
+ - [**Portfolio Website**](https://utveckvlad.com)
+ - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
+ - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
+
 **Java Applications**
 - [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
 
@@ -29,22 +36,16 @@
 **Web Development**
 - [**React To-do App:** A to-do list management app (June 2024)](https://v-dav.github.io/react-todo/)
 - [**React Products Table:** A products table with filters using React state (May 2024)](https://v-dav.github.io/react-products-table/)
-- [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server (May 2024)](https://react-jobs-gfw8.onrender.com/)
-- [**Tic Tac Toe:** A simple Tic Tac Toe game built with React (April 2024)](https://v-dav.github.io/tictactoe_game_react/)
-- [**Seal Online:** A responsive website built with WordPress for a private client (February 2024)](https://sealonline.se/)
-- [**Get Schooled:** A static responsive website with dynamic API calls (February 2024)](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
-- [**Headphones:** A static fully responsive website built from a Figma designer file (January 2024)](https://v-dav.github.io/holbertonschool-headphones/index.html)
-- [**Portfolio Website:** A website built to showcase skills and host CV and Social links (December 2023 - January 2024)](https://utveckvlad.com)
-- [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients (October - November 2023)](https://github.com/v-dav/DepistClic)
-- [**Blog:** A personal project used to master Django framework (October 2023)](https://github.com/v-dav/learn_django)
-- [**AirBnB Clone:** A first full Web Application project (June - October 2023)](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
-- [**First Website:** A very simple static website creation from scratch, as part of admission to Holberton School (September 2022)](https://github.com/v-dav/holbertonschool-admission_test)
+- [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server](https://react-jobs-gfw8.onrender.com/)
+- [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react/)
+- [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
+- [**Headphones:** A static fully responsive website built from a Figma designer file](https://v-dav.github.io/holbertonschool-headphones/index.html)
+- [**AirBnB Clone:**](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
+
    
  **Low-level Programming**
- - [**Monty:** A simplified version of an interpreter for Monty ByteCodes files in C(May 2023)](https://github.com/v-dav/holbertonschool-monty)
- - [**Simple Shell:** A simplified version of a UNIX command line interpreter in C (April 2023)](https://github.com/v-dav/holbertonschool-simple_shell)
-- [**Calc:** A simple command line calculator written in C (March 2023)](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
- - [**Printf**: A simplified version of the printf() function in C (March 2023)](https://github.com/v-dav/holbertonschool-printf)
+ - [**Monty:** An interpreter for Monty ByteCodes files in C](https://github.com/v-dav/holbertonschool-monty)
+ - [**Calc:** A CLI calculator written in C](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
 
 ---
 ### Languages and Tools:
