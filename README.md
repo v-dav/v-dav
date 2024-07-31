@@ -71,6 +71,7 @@
 [![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)](https://github.com/v-dav)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask)](https://github.com/v-dav)
 [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=green)](https://github.com/v-dav)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring-boot)](https://github.com/v-dav)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/v-dav)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/v-dav)
