@@ -65,7 +65,6 @@
 [![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/v-dav)
 [![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)](https://github.com/v-dav)
 [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orange)](https://github.com/v-dav)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/v-dav)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/v-dav)
 [![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)](https://github.com/v-dav)
