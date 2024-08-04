@@ -1,9 +1,10 @@
 ### About me
 - Software Engineer with a Doctor of Medicine degree
-- Currently looking for a back-end, front-end, or full-stack position in an organization where I can make a meaningful impact.
-- Lived in 3 countries and speak 4 languages. Love to run, climb, and read.
-- Wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), launched a business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a majestic glacier.
-- If you're hiring, have a project proposal, or just want to say hello, let's chat! 🤝
+- Currently looking for a back-end, front-end, or full-stack position in a team where I can make a meaningful impact
+- Speak English, French, Swedish and Russian
+- Love to train, climb, and read
+- Wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), launched a business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a glacier
+- If you're hiring, have a project proposal, or just want to say hello, let's chat 🤝
 ---
 
 ### Portfolio
