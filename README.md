@@ -16,6 +16,11 @@
  - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
+**Fun**
+- [**User Generator**: A random user web generator](https://v-dav.github.io/random-user-generator/)
+- [**To-do App:** A to-do list management app](https://v-dav.github.io/react-todo/)
+- [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react/)
+
 **Java Applications**
 - [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
 
@@ -36,10 +41,8 @@
 
 
 **Web Development**
-- [**React To-do App:** A to-do list management app (June 2024)](https://v-dav.github.io/react-todo/)
-- [**React Products Table:** A products table with filters using React state (May 2024)](https://v-dav.github.io/react-products-table/)
+- [**React Products Table:** A products table with filters using React state](https://v-dav.github.io/react-products-table/)
 - [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server](https://react-jobs-gfw8.onrender.com/)
-- [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react/)
 - [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file](https://v-dav.github.io/holbertonschool-headphones/index.html)
 - [**AirBnB Clone:**](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
