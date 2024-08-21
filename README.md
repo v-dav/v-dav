@@ -19,6 +19,7 @@
 **Fun**
 - [**Dog Glossary**: Choose your favorite dog](https://v-dav.github.io/dog-glossary/)
 - [**User Generator**: Web random user generator](https://v-dav.github.io/random-user-generator/)
+- [**URL Shortener**: Generate short URLs for longer links and track the number of clicks](https://v-dav.github.io/url-shortener/)
 - [**To-do App:** A to-do list management app](https://v-dav.github.io/react-todo/)
 - [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react)
 
