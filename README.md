@@ -1,9 +1,9 @@
 ### About me
 - Software Engineer with a Doctor of Medicine degree
-- Currently looking for a back-end, front-end, or full-stack position in a team where I can make a meaningful impact
 - Speak English, French, Swedish and Russian
 - Love to train, climb, and read
 - Wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), launched a business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a glacier
+- Currently looking for a back-end, front-end, or full-stack position in a team where I can make a meaningful impact
 - If you're hiring, have a project proposal, or just want to say hello, let's chat 🤝
 ---
 
@@ -20,6 +20,7 @@
 - [**Dog Glossary**: Choose your favorite dog](https://v-dav.github.io/dog-glossary/)
 - [**User Generator**: Web random user generator](https://v-dav.github.io/random-user-generator/)
 - [**Case Converter**: Convert the text in the case you want and download the text file](https://v-dav.github.io/case-converter/)
+- [**Spin the Bottle**: A classic game that randomly selects one player from the list](https://v-dav.github.io/spin-the-bottle/)
 - [**URL Shortener**: Generate short URLs for longer links and track the number of clicks](https://v-dav.github.io/url-shortener/)
 - [**To-do App:** A to-do list management app](https://v-dav.github.io/react-todo/)
 - [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react)
