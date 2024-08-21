@@ -17,7 +17,7 @@
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
 **Fun**
-- [**User Generator**: A random user web generator](https://v-dav.github.io/random-user-generator/)
+- [**User Generator**: Web random user generator](https://v-dav.github.io/random-user-generator/)
 - [**To-do App:** A to-do list management app](https://v-dav.github.io/react-todo/)
 - [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react/)
 
