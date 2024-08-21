@@ -12,7 +12,7 @@
 **Featured**
  - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
  - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://github.com/v-dav/DepistClic)
- - [**Portfolio Website**](https://utveckvlad.com)
+ - [**Portfolio Website**: Find more about me and my social links](https://utveckvlad.com)
  - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
@@ -28,7 +28,7 @@
 **Java Applications**
 - [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
 
-**Java CLI**
+**Java Command Line Apps and Games**
 - [**Traffic Management System**: A Traffic Management System in Java using circular queue data structure and multithreading to simulate real-time traffic control on multiple roads.](https://github.com/v-dav/java_programming/tree/main/traffic_management_system)
 - [**Battleship Game**: A classic Battleship game for 2 players playable in terminal.](https://github.com/v-dav/java_programming/tree/main/battleship)
 - [**Chuck Norris Cypher Encoder**: Encodes and decodes messages using the unary code](https://github.com/v-dav/java_programming/tree/main/chuck_norris_cypher_encoder)
