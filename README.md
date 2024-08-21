@@ -4,7 +4,7 @@
 - Speak English, French, Swedish and Russian
 - Love to train, climb, and read
 - Wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), launched a business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a glacier
-- If you're hiring, have a project proposal, or just want to say hello, let's chat 🤝 ([CV](https://github.com/v-dav/v-dav/blob/main/Vladimir%20Davidov%20-%20Software%20Engineer.pdf))
+- If you're hiring, have a project proposal, or just want to say hello, let's chat 🤝
 ---
 
 ### Portfolio
