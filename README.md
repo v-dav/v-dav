@@ -91,10 +91,10 @@
 
 ### Latest Blog Posts
 
+- [From Concept to Deployment: How a Simple Plan can elevate your full-stack development process](https://medium.com/@v-dav/from-concept-to-deployment-how-a-simple-plan-can-elevate-your-full-stack-development-process-588c491ed9f3)
 - [Speak UX Designer Language: Put yourself in the designer’s shoes and understand how user experience works through a real-world Spotify UX case study](https://medium.com/design-bootcamp/speak-ux-designer-language-d688f8e12bf8)
 - [From Code to Clinic: How I designed and launched my first Medical Web App](https://medium.com/@v-dav/from-code-to-clinic-how-i-designed-and-launched-my-first-medical-web-app-f115d86a44ac)
-- [How Do SQL Database Engines Work?](https://medium.com/@v-dav/how-do-sql-database-engines-work-fa8c0300ea78)
-  
+    
   [more blog posts...](https://medium.com/@v-dav)
 
 ---
