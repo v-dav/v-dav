@@ -17,6 +17,7 @@
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
 **Fun**
+- [**Stopwatch**: A sleek, modern stopwatch web app](https://v-dav.github.io/stopwatch/)
 - [**Dog Glossary**: Choose your favorite dog](https://v-dav.github.io/dog-glossary/)
 - [**User Generator**: Web random user generator](https://v-dav.github.io/random-user-generator/)
 - [**Case Converter**: Convert the text in the case you want and download the text file](https://v-dav.github.io/case-converter/)
