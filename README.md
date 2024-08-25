@@ -10,7 +10,6 @@
 ### Portfolio
 
 **Featured**
- - [**Crypto-To-Gift-Card Converter:** Convert your USD to cryptocurrency and find matching gift cards](https://bitrefill-8sep.onrender.com/)
  - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
  - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://depistclic.fr)
  - [**Portfolio Website**: Find more about me and my social links](https://utveckvlad.com)
