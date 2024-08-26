@@ -17,6 +17,7 @@
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
 **Fun**
+- [**Color Guess Game**: Test your RGB color recognition skills !](https://v-dav.github.io/color-guess-game/)
 - [**Stopwatch**: A sleek, modern stopwatch web app](https://v-dav.github.io/stopwatch/)
 - [**Dog Glossary**: Choose your favorite dog](https://v-dav.github.io/dog-glossary/)
 - [**User Generator**: Web random user generator](https://v-dav.github.io/random-user-generator/)
