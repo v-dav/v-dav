@@ -10,9 +10,9 @@
 ### Portfolio
 
 **Featured**
- - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
  - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://www.depistclic.fr)
  - [**Portfolio Website**: Find more about me and my social links](https://utveckvlad.com)
+ - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
  - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
