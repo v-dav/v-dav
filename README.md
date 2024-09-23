@@ -30,6 +30,7 @@
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
 
 **Java Applications**
+<!-- Snapspace -->
 - [**Train Booking API Prototype**: An full stack application (Java Spring Boot, React) with a graphical interface for requests](https://train-booking-api-tid5.onrender.com/)
 - [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
 
