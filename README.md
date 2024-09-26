@@ -10,15 +10,15 @@
 ### Portfolio
 
 **Featured**
- - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://www.depistclic.fr)
+ <!-- - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://www.depistclic.fr) -->
  - [**Portfolio Website**: Find more about me and my social links](https://utveckvlad.com)
  - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
  - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
 **Fun**
+<!-- - [**Crypto To Gift Card Converter**: convert cryptocurrency to gift cards](https://cryptogift.onrender.com/) -->
 - [**Color Guess Game**: Test your RGB color recognition skills !](https://v-dav.github.io/color-guess-game/)
-- [**Crypto To Gift Card Converter**: convert cryptocurrency to gift cards](https://cryptogift.onrender.com/)
 - [**Stopwatch**: A sleek, modern stopwatch web app](https://v-dav.github.io/stopwatch/)
 - [**Dog Glossary**: Choose your favorite dog](https://v-dav.github.io/dog-glossary/)
 - [**User Generator**: Web random user generator](https://v-dav.github.io/random-user-generator/)
@@ -31,7 +31,7 @@
 
 **Java Applications**
 <!-- Snapspace -->
-- [**Train Booking API Prototype**: An full stack application (Java Spring Boot, React) with a graphical interface for requests](https://train-booking-api-tid5.onrender.com/)
+<!-- - [**Train Booking API Prototype**: An full stack application (Java Spring Boot, React) with a graphical interface for requests](https://train-booking-api-tid5.onrender.com/) -->
 - [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
 
 **Java Command Line Apps and Games**
@@ -51,8 +51,8 @@
 
 
 **Web Development**
+<!-- - [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server](https://react-jobs-gfw8.onrender.com/) -->
 - [**React Products Table:** A products table with filters using React state](https://v-dav.github.io/react-products-table/)
-- [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server](https://react-jobs-gfw8.onrender.com/)
 - [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file](https://v-dav.github.io/holbertonschool-headphones/index.html)
 - [**AirBnB Clone:**](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
