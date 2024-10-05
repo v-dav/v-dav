@@ -1,23 +1,19 @@
 ### About me
 - Software Engineer with a Doctor of Medicine degree.
 - Love to train, climb, and read.
-- Speak English, French, Swedish and Russian.
-<!--- Currently looking for a back-end, front-end, or full-stack position in a team where I can make a meaningful impact.
-- If you're hiring, have a project proposal, or just want to say hello, let's chat 🤝.
- Wrote a little book in French [:book:](https://github.com/v-dav/v-dav/blob/12411bc570df3984b6205918a9a3f14a7bb51a49/Anesthe%CC%81sie%20sans%20myste%CC%80res.pdf), launched a business, been in a music band and biked through the frosty wilderness of Norway, pitching a tent and sleeping beneath a glacier.-->
+- Speak English, French, Swedish, and Russian.
+
 ---
 
 ### Portfolio
 
 **Featured**
- <!-- - [**DepistClic:** An original decisional help web application for doctors taking care of diabetic patients](https://www.depistclic.fr) -->
  - [**Portfolio Website**: Find more about me and my social links](https://utveckvlad.com)
  - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
  - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
  - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
 
 **Fun**
-<!-- - [**Crypto To Gift Card Converter**: convert cryptocurrency to gift cards](https://cryptogift.onrender.com/) -->
 - [**Color Guess Game**: Test your RGB color recognition skills !](https://v-dav.github.io/color-guess-game/)
 - [**Stopwatch**: A sleek, modern stopwatch web app](https://v-dav.github.io/stopwatch/)
 - [**Dog Glossary**: Choose your favorite dog](https://v-dav.github.io/dog-glossary/)
@@ -28,11 +24,6 @@
 - [**To-do App:** A to-do list management app](https://v-dav.github.io/react-todo/)
 - [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react)
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
-
-<!-- **Java Applications** -->
-<!-- Snapspace -->
-<!-- - [**Train Booking API Prototype**: An full stack application (Java Spring Boot, React) with a graphical interface for requests](https://train-booking-api-tid5.onrender.com/) -->
-<!-- [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main) -->
 
 **Java Command Line Apps and Games**
 - [**Traffic Management System**: A Traffic Management System in Java using circular queue data structure and multithreading to simulate real-time traffic control on multiple roads.](https://github.com/v-dav/java_programming/tree/main/traffic_management_system)
@@ -51,18 +42,17 @@
 
 
 **Web Development**
-<!-- - [**React Jobs:** A Dashboard app built in React with API calls to a personal mock API server](https://react-jobs-gfw8.onrender.com/) -->
 - [**React Products Table:** A products table with filters using React state](https://v-dav.github.io/react-products-table/)
 - [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file](https://v-dav.github.io/holbertonschool-headphones/index.html)
 - [**AirBnB Clone:**](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
-
-   
+ 
  **Low-level Programming**
  - [**Monty:** An interpreter for Monty ByteCodes files in C](https://github.com/v-dav/holbertonschool-monty)
  - [**Calc:** A CLI calculator written in C](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
 
 ---
+
 ### Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/v-dav)
@@ -117,6 +107,7 @@
 - **Head First Java** by Kathy Sierra & Bert Bates
 
 ---
+
 ### Connect with me:
 - [Blog](https://medium.com/@v-dav)
 - [Twitter](https://twitter.com/v_dav_dev)
