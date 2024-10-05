@@ -29,10 +29,10 @@
 - [**Tic Tac Toe:** A Tic Tac Toe game built with React)](https://v-dav.github.io/tictactoe_game_react)
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
 
-**Java Applications**
+<!-- **Java Applications** -->
 <!-- Snapspace -->
 <!-- - [**Train Booking API Prototype**: An full stack application (Java Spring Boot, React) with a graphical interface for requests](https://train-booking-api-tid5.onrender.com/) -->
-- [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main)
+<!-- [**Product Lifecycle Management App**: Refactoring of a Proof of Concept (POC) for a Product Lifecycle Management (PLM) software, ensuring data integrity, performance optimization, and future extensibility](https://github.com/v-dav/product-lifecycle-management-app-proof-of-concept/tree/main) -->
 
 **Java Command Line Apps and Games**
 - [**Traffic Management System**: A Traffic Management System in Java using circular queue data structure and multithreading to simulate real-time traffic control on multiple roads.](https://github.com/v-dav/java_programming/tree/main/traffic_management_system)
