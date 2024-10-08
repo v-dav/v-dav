@@ -65,6 +65,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/v-dav)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/v-dav)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/v-dav)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/v-dav)
 [![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis)](https://github.com/v-dav)
 [![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/v-dav)
 [![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)](https://github.com/v-dav)
@@ -79,8 +80,11 @@
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/v-dav)
 [![Node](https://img.shields.io/badge/Node%20js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/v-dav)
 [![Express](https://img.shields.io/badge/Express%20js-black?style=for-the-badge&logo=express)](https://github.com/v-dav)
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/v-dav)
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=blue)](https://github.com/v-dav)
 [![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
+[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)]()
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-black?style=for-the-badge&logo=bitbucket&logoColor=blue)]()
+[![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue)]()
 
 ---
 
