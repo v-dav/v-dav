@@ -26,6 +26,7 @@
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
 
 **Java Command Line Apps and Games**
+- [**Minesweeper Game**: A classic Minesweeper game playable in terminal.](https://github.com/v-dav/java_programming/tree/main/minesweeper)
 - [**Traffic Management System**: A Traffic Management System in Java using circular queue data structure and multithreading to simulate real-time traffic control on multiple roads.](https://github.com/v-dav/java_programming/tree/main/traffic_management_system)
 - [**Battleship Game**: A classic Battleship game for 2 players playable in terminal.](https://github.com/v-dav/java_programming/tree/main/battleship)
 - [**Chuck Norris Cypher Encoder**: Encodes and decodes messages using the unary code](https://github.com/v-dav/java_programming/tree/main/chuck_norris_cypher_encoder)
