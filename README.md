@@ -7,11 +7,6 @@
 
 ### Portfolio
 
-**Featured**
- - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
- - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
- - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
-
 **Fun**
 - [**Color Guess Game**: Test your RGB color recognition skills !](https://v-dav.github.io/color-guess-game/)
 - [**Stopwatch**: A sleek, modern stopwatch web app](https://v-dav.github.io/stopwatch/)
@@ -25,6 +20,7 @@
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
 
 **Java Apps and Games**
+- [**Desktop Calculator**: A desktop calculator](https://github.com/v-dav/java_programming/tree/main/desktop_calculator)
 - [**Minesweeper Game**: A classic Minesweeper game playable in terminal.](https://github.com/v-dav/java_programming/tree/main/minesweeper)
 - [**Traffic Management System**: A Traffic Management System in Java using circular queue data structure and multithreading to simulate real-time traffic control on multiple roads.](https://github.com/v-dav/java_programming/tree/main/traffic_management_system)
 - [**Battleship Game**: A classic Battleship game for 2 players playable in terminal.](https://github.com/v-dav/java_programming/tree/main/battleship)
@@ -42,12 +38,15 @@
 
 
 **Web Development**
+- [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
 - [**React Products Table:** A products table with filters using React state](https://v-dav.github.io/react-products-table/)
 - [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file](https://v-dav.github.io/holbertonschool-headphones/index.html)
 - [**AirBnB Clone:**](https://github.com/v-dav/holbertonschool-AirBnB_clone/) - [AirBnB v1](https://github.com/v-dav/holbertonschool-AirBnB_clone) - [AirBnB v2](https://github.com/v-dav/holbertonschool-AirBnB_clone_v2) - [AirBnB v3](https://github.com/v-dav/holbertonschool-AirBnB_clone_v3) - [AirBnB v4](https://github.com/v-dav/holbertonschool-AirBnB_clone_v4) 
  
  **Low-level Programming**
+ - [**Simple Shell:** A UNIX command line interpreter in C](https://github.com/v-dav/holbertonschool-simple_shell)
+ - [**Printf**: A printf() function rewritten in C](https://github.com/v-dav/holbertonschool-printf)
  - [**Monty:** An interpreter for Monty ByteCodes files in C](https://github.com/v-dav/holbertonschool-monty)
  - [**Calc:** A CLI calculator written in C](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
 
