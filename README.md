@@ -1,5 +1,5 @@
 ### About me
-- Software Engineer
+- Full-stack Software Engineer
 - Love to train, climb, and read.
 - Speak English, French, Swedish, and Russian.
 
