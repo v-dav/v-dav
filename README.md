@@ -1,5 +1,5 @@
 ### About me
-- Software Engineer with a Doctor of Medicine degree.
+- Software Engineer
 - Love to train, climb, and read.
 - Speak English, French, Swedish, and Russian.
 
