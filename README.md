@@ -21,6 +21,7 @@
 
 **Java Apps and Games**
 - [**Desktop Calculator**: A calculator application built with Java Swing.](https://github.com/v-dav/java_programming/tree/main/desktop_calculator)
+- [**Tetris Game**: A command-line implementation of the classic Tetris game.](https://github.com/v-dav/java_programming/tree/main/tetris)
 - [**Minesweeper Game**: A classic Minesweeper game playable in terminal.](https://github.com/v-dav/java_programming/tree/main/minesweeper)
 - [**Traffic Management System**: A Traffic Management System in Java using circular queue data structure and multithreading to simulate real-time traffic control on multiple roads.](https://github.com/v-dav/java_programming/tree/main/traffic_management_system)
 - [**Battleship Game**: A classic Battleship game for 2 players playable in terminal.](https://github.com/v-dav/java_programming/tree/main/battleship)
