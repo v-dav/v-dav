@@ -1,6 +1,6 @@
 ### About me
 - Full-stack Software Engineer
-- Love to train, climb, and read.
+- Love to train, climb, read and just fix and build stuff
 - Speak English, French, Swedish, and Russian.
 
 ---
@@ -41,6 +41,7 @@
 
 **Web Development**
 - [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
+- [**Feedback Service REST API:** MVP of an API service for managing customer feedback with rating system](https://github.com/v-dav/java_programming/tree/main/feedback_service)
 - [**React Products Table:** A products table with filters using React state](https://v-dav.github.io/react-products-table/)
 - [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
 - [**Headphones:** A static fully responsive website built from a Figma designer file](https://v-dav.github.io/holbertonschool-headphones/index.html)
