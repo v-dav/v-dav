@@ -20,6 +20,7 @@
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
 
 **Java Apps and Games**
+- [**Real-Time Chat:** A full stack, real-time chat application built with JS, Java, Spring Boot and WebSocket](https://github.com/v-dav/java_programming/tree/main/real_time_chat)
 - [**Connect Four:** A desktop classic Connect Four game implemented in Java Swing](https://github.com/v-dav/java_programming/tree/main/connect_four)
 - [**Desktop Calculator**: A desktop calculator application built with Java Swing.](https://github.com/v-dav/java_programming/tree/main/desktop_calculator)
 - [**Tetris Game**: A command-line implementation of the classic Tetris game.](https://github.com/v-dav/java_programming/tree/main/tetris)
