@@ -54,6 +54,9 @@
  - [**Monty:** An interpreter for Monty ByteCodes files in C](https://github.com/v-dav/holbertonschool-monty)
  - [**Calc:** A CLI calculator written in C](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
 
+**Side Projects**
+- [**Meeting Notes Obsidian Plugin:** An Obsidian Plugin to simplifiy repetitive daily meeting note taking](https://github.com/v-dav/meeting_notes_obsidian_plugin)
+
 ---
 
 ### Languages and Tools:
