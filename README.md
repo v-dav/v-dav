@@ -5,7 +5,7 @@
 
 ---
 
-### Portfolio
+### Projects
 
 **Fun**
 - [**Color Guess Game**: Test your RGB color recognition skills !](https://v-dav.github.io/color-guess-game/)
@@ -41,7 +41,7 @@
 **Web Development**
 - [**Real-Time Chat:** A full stack, real-time chat application built with JS, Java, Spring Boot and WebSocket](https://github.com/v-dav/java_programming/tree/main/real_time_chat)
 - [**Fitness Data API**: REST API for fitness data management with developer authentication, application registration, secure data endpoints and rate limiting](https://github.com/v-dav/java_programming/tree/main/fitness_tracker_api)
-- [**Seal Online:** Swedish Education and Learning website for a private client](https://sealonline.se/)
+- [**Seal Online:** Swedish Education and Learning website for a private client (not maintained)](https://sealonline.se/)
 - [**Feedback Service REST API:** MVP of an API service for managing customer feedback with rating system](https://github.com/v-dav/java_programming/tree/main/feedback_service)
 - [**React Products Table:** A products table with filters using React state](https://v-dav.github.io/react-products-table/)
 - [**Get Schooled:** A static responsive website with dynamic API calls](https://v-dav.github.io/holbertonschool-smiling-school-javascript/)
@@ -54,7 +54,7 @@
  - [**Monty:** An interpreter for Monty ByteCodes files in C](https://github.com/v-dav/holbertonschool-monty)
  - [**Calc:** A CLI calculator written in C](https://github.com/v-dav/holbertonschool-low_level_programming/tree/ff125d9296f2c08d73a4d43540cdc2a621e75708/function_pointers)
 
-**Side Projects**
+**Other**
 - [**Meeting Notes Obsidian Plugin:** An Obsidian Plugin to simplifiy repetitive daily meeting note taking](https://github.com/v-dav/meeting_notes_obsidian_plugin)
 
 ---
