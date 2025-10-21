@@ -39,6 +39,7 @@
 - [**Beer Song, Guessing Game and Phrase-O-Matic:** Beer song - Outputs the lyrics to the “99 Bottles of Beer” song, Guessing Game - A number guessing game where bot players try to guess the computer’s chosen number, Phrase-O-Matic - Generates random business phrases from pre-defined word lists](https://github.com/v-dav/java_programming/tree/main/head_first)
 
 **Web Development**
+- [**Web Quiz Engine:** A RESTful web service for creating, managing, and solving quizzes with user authentication and progress tracking](https://github.com/v-dav/java_programming/tree/main/web_quiz_engine)
 - [**Real-Time Chat:** A full stack, real-time chat application built with JS, Java, Spring Boot and WebSocket](https://github.com/v-dav/java_programming/tree/main/real_time_chat)
 - [**Fitness Data API**: REST API for fitness data management with developer authentication, application registration, secure data endpoints and rate limiting](https://github.com/v-dav/java_programming/tree/main/fitness_tracker_api)
 - [**Seal Online:** Swedish Education and Learning website for a private client (not maintained)](https://sealonline.se/)
