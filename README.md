@@ -20,6 +20,7 @@
 - [**Markdown To HTML**: A Python script that converts Markdown files into HTML](https://github.com/v-dav/holbertonschool-Markdown2HTML)
 
 **Java Apps and Games**
+- [**Blockchain:** A lightweight, educational blockchain implementation in Java featuring proof-of-work consensus, digital signatures, and concurrent mining](https://github.com/v-dav/java_programming/tree/main/blockchain)
 - [**Memorizing Tool:** A CLI Java application for managing and manipulating lists of different data types with comprehensive operations and file persistence.](https://github.com/v-dav/java_programming/tree/main/bug_busters)
 - [**Connect Four:** A desktop classic Connect Four game implemented in Java Swing](https://github.com/v-dav/java_programming/tree/main/connect_four)
 - [**Desktop Calculator**: A desktop calculator application built with Java Swing.](https://github.com/v-dav/java_programming/tree/main/desktop_calculator)
