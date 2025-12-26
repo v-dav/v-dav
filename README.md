@@ -1,5 +1,5 @@
 ### About me
-- Full-stack Software Engineer
+- Full-stack Software Engineer. Specialized in backend, Java and Spring Boot.
 - Love to train, climb, read and just fix and build stuff
 - Speak English, French, Swedish, and Russian.
 
